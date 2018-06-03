@@ -1,0 +1,23 @@
+body{
+	font-family: 'Anaheim';
+	color: #e9ecef;
+    background-color: #161616;
+    background-image: -moz-linear-gradient(0deg, transparent 1px, #161616 1px), -moz-linear-gradient(-90deg, #6c6 1px, #161616 1px);
+    background-size: 10px 10px;
+    background-position: 5px 5px;
+}
+h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 {
+    font-family: "Lato","Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-weight: 400;
+    line-height: 1.1;
+    color: inherit;
+}
+.p-text{
+	background-color: rgba(16,16,16,0.5);
+}
+.col-md-12 p{
+	background-color: rgba(16,16,16,0.5);
+}
+.list-group-item{
+	background-color: rgba(16,16,16,0.5);
+}
