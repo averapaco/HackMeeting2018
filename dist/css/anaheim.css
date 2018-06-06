@@ -1,6 +1,7 @@
 @font-face {
   font-family: 'Anaheim';
   font-weight: 400;
+  color: red;
   font-style: normal;
   src: url('../fonts/Anaheim-regular/Anaheim-regular.eot');
   src: url('../fonts/Anaheim-regular/Anaheim-regular.eot?#iefix') format('embedded-opentype'),
